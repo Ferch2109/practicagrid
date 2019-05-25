@@ -1,0 +1,23 @@
+{
+  "settings" :[
+    {
+      "min": 0,
+      "max": 3,
+      "lmax": 12
+    }
+  ],
+  "images": [
+    {"name":"Facebook.png"},
+    {"name":"instagram.png"},
+    {"name":"twitter.png"},
+    {"name":"tumblr.png"},
+    {"name":"pinterest.png"},
+    {"name":"youtube.png"},
+    {"name":"telegram.png"},
+    {"name":"Snapchat.png"},
+    {"name":"pushbullet.png"},
+    {"name":"evernote.png"},
+    {"name":"ios.png"},
+    {"name":"android.png"}
+  ]
+}
